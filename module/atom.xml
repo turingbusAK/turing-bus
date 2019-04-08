@@ -1,0 +1,39 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://turing-bus.de/module/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Turing-Bus</name>
+    <email>info@turing-bus.de</email>
+    <uri>https://turing-bus.de</uri>
+  </author>
+  <id>https://turing-bus.de</id>
+  
+  <entry>
+    <title>Hands-On</title>
+    <link rel="alternate" href="https://turing-bus.de/module/hands-on/"/>
+    <id>https://turing-bus.de/module/hands-on/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Wie entstehen die Daten, ohne die viele KI-Systeme nicht funktionieren würden? Die Diskussion um Künstliche Intelligenz dreht sich oft vorrangig um Anwendungsmöglichkeiten und Zukunftspotentiale. Seltener wird über ihren Treibstoff gesprochen: Daten. Wie ein Datensatz entsteht, wie man mithilfe von Sensoren selbst Daten erstellen kann und welche schwerwiegenden Folgen ein Datensatz von niedriger Qualität haben kann, wird hier anhand von Hands-On-Formaten nachvollziehbar. In diesem Modul erstellen wir Datensätze mithilfe von Mikrocontrollern wie Arduinos und Einplatinenrechnern wie Raspberry Pis.</summary>
+  </entry>
+  
+  <entry>
+    <title>Interaktiver Vortrag</title>
+    <link rel="alternate" href="https://turing-bus.de/module/interaktiver-vortrag/"/>
+    <id>https://turing-bus.de/module/interaktiver-vortrag/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Was ist Künstliche Intelligenz – und was nicht? Kaum ein Begriff zeichnet sich so durch eine Mischung aus bedeutsamer Innovation, berechtigtem gesellschaftlichem Interesse und verschachtelter terminologischer Ambivalenz aus wie der der Künstlichen Intelligenz. 1956 von Wissenschaftlern geprägt, um Fördermittel einzuwerben, bezeichnet der Begriff heute ein informatisches Teilgebiet, das sich mit einer Vielzahl an algorithmischen Verfahren auseinandersetzt, die bei weitem nicht nur das maschinelle Lernen mit künstlichen neuronalen Netzwerken umfassen. Ob wir Alexa oder Siri etwas fragen, den Google-Übersetzer benutzen, Online-Games spielen oder unsere Daten (häufig von uns unbemerkt) von Mustererkennungsalgorithmen kategorisiert werden, KI ist bereits allgegenwärtig.</summary>
+  </entry>
+  
+  <entry>
+    <title>Diskutieren</title>
+    <link rel="alternate" href="https://turing-bus.de/module/diskutieren/"/>
+    <id>https://turing-bus.de/module/diskutieren/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Kritisches Denken – Gewissensbits Smarte Armbänder, Blockchain-Disruption oder vollautomatische Militärroboter – jede IT-Entwicklung bringt eigene ethische Probleme mit sich. Anhand konkreter Fallbeispiele diskutieren wir eine ethische Fragestellung, die sich aus der Verwendung einer KI-Technik im Alltag sowie für ihre Entwickler*innen, Administrator*innen und Anwender*innen ergibt – ein „Gewissensbit”. Wir schauen uns dabei auch die einzelnen Akteure und ihre mit dem EInsatz oder der Verhinderung einer Technik zusammenhängenden Interessen an, um besser zu verstehen, wie sie ihre Haltungen in einer Kontroverse jeweils argumentativ begründen.</summary>
+  </entry>
+  
+</feed>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://turing-bus.de/module/hands-on/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/module/interaktiver-vortrag/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/module/diskutieren/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2019/03/hacken-unterm-sternenhimmel/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/10/der-turing-bus-auf-gi-jahrestagung-und-frankfurter-buchmesse/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/07/ausklang-auf-dem-wissenschaftstag-des-gymnasiums-templin/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/free-wifi-auf-dem-schulhof-am-ema-in-bonn/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/magische-informatik-und-science-on-tour/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/fuenf-workshops-rund-um-informatik-und-digitalisierung-in-landsberg/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/mit-den-demokratielaboren-in-uelzen/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/arbeitsfrei-mit-constanze-kurz-in-beetzendorf/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/moral-der-maschinen-tessin/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/geoinformatik-auf-ruegen/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/06/kommunikationsguerilla-in-rangsdorf/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/05/tour-start-in-bernau/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/04/girlsday-mit-fablab-cottbus/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/chaos-macht-schule/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/code-for-germany/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/demokratielabore/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/devcamp/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/digitales-flubgblatt/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/fablab-cottbus/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/fiff/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/gi/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/microbit/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/mitmachen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/module/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/okf-de/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/planetarium/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/station/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/tags/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/turing-bus/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/turingbus/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/wissenschaftsjahr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
