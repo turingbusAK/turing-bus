@@ -15,6 +15,11 @@
   </url>
   
   <url>
+    <loc>https://turing-bus.de/blog/2019/04/der-turing-bus-faehrt-weiter/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://turing-bus.de/blog/2018/12/hacken-unterm-sternenhimmel/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -87,6 +92,12 @@
   <url>
     <loc>https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turing-bus.de/blog/tags/2019/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -174,13 +185,13 @@
   
   <url>
     <loc>https://turing-bus.de/blog/tags/station/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://turing-bus.de/tags/</loc>
-    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,12 +207,12 @@
   
   <url>
     <loc>https://turing-bus.de/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://turing-bus.de/blog/tags/turingbus/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,7 +222,7 @@
   
   <url>
     <loc>https://turing-bus.de/blog/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -6,10 +6,20 @@
     <description>[B]logbuch on Turing-Bus</description>
     
     
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://turing-bus.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Der Turing-Bus fährt 2019 auf den Spuren Künstlicher Intelligenz!</title>
+      <link>https://turing-bus.de/blog/2019/04/der-turing-bus-faehrt-weiter/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2019/04/der-turing-bus-faehrt-weiter/</guid>
+      <description>Der Turing-Bus ist zurück! Nach 13 Stationen, 450 Teilnehmer*innen sowie über 3500 Kilometern im letzten Jahr freuen wir uns auf neue Orte, Menschen und spannende Workshops.
+Das Thema des Wissenschaftsjahres 2019 ist Künstliche Intelligenz – ein Begriff, der aktuell in aller Munde ist Wir möchten abseits von Hype und Fiktion über zentrale Begrifflichkeiten aufklären und bieten dazu Hands-On-Workshops und Diskussionsformate an. In diesen erstellen wir beispielsweise einen eigenen Datensatz mithilfe von Sensoren und Mikrocontrollern, bauen einen eigenen Chatbot oder diskutieren, welche Prozesse und Verfahren unter dem Deckmantel des Begriffes Künstlicher Intelligenz verborgen liegen.</description>
+    </item>
     
     <item>
       <title>Abschlussveranstaltung Turing-Bus: Hacken unterm Sternenhimmel</title>

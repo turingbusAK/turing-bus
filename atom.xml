@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://turing-bus.de/blog/atom.xml"/>
-  <updated>2018-12-01T00:00:00+0000</updated>
+  <updated>2019-04-10T00:00:00+0000</updated>
   <author>
     <name>Turing-Bus</name>
     <email>info@turing-bus.de</email>
     <uri>https://turing-bus.de</uri>
   </author>
   <id>https://turing-bus.de</id>
+  
+  <entry>
+    <title>Der Turing-Bus fährt 2019 auf den Spuren Künstlicher Intelligenz!</title>
+    <link rel="alternate" href="https://turing-bus.de/blog/2019/04/der-turing-bus-faehrt-weiter/"/>
+    <id>https://turing-bus.de/blog/2019/04/der-turing-bus-faehrt-weiter/</id>
+    <published>2019-04-10T00:00:00+0000</published>
+    <updated>2019-04-10T00:00:00+0000</updated>
+    <summary>Der Turing-Bus ist zurück! Nach 13 Stationen, 450 Teilnehmer*innen sowie über 3500 Kilometern im letzten Jahr freuen wir uns auf neue Orte, Menschen und spannende Workshops.
+Das Thema des Wissenschaftsjahres 2019 ist Künstliche Intelligenz – ein Begriff, der aktuell in aller Munde ist Wir möchten abseits von Hype und Fiktion über zentrale Begrifflichkeiten aufklären und bieten dazu Hands-On-Workshops und Diskussionsformate an. In diesen erstellen wir beispielsweise einen eigenen Datensatz mithilfe von Sensoren und Mikrocontrollern, bauen einen eigenen Chatbot oder diskutieren, welche Prozesse und Verfahren unter dem Deckmantel des Begriffes Künstlicher Intelligenz verborgen liegen.</summary>
+  </entry>
   
   <entry>
     <title>Abschlussveranstaltung Turing-Bus: Hacken unterm Sternenhimmel</title>
@@ -144,15 +154,6 @@ Die Veranstaltung wurde durch ein Impulsreferat von Ina Schieferdecker (Institut
     <published>2018-04-26T00:00:00+0000</published>
     <updated>2018-04-22T00:00:00+0000</updated>
     <summary>1950 veröffentlichte Alan Turing einen Aufsatz, in dem er Geschlecht und die Fähigkeit zu denken als imitierbare Eigenschaften beschrieb. Berühmt geworden sind diese Gedankenspiele als Imitation Game beziehungsweise Turing Test. Es war uns also im Sinne Turings am Girls’Day, dem bundesweiten Mädchen-Zukunftstag, ein wichtiges Anliegen, noch vor dem offiziellen Tourstart weiter an den üblichen Geschlechterklischees zu rütteln. Schließlich lassen sich Jungs als Nerds leicht imitieren und denkende Maschinen werden überschätzt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Aller Anfang ist schwer. Das digitale Flugblatt in München</title>
-    <link rel="alternate" href="https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/"/>
-    <id>https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/</id>
-    <published>2018-04-22T00:00:00+0000</published>
-    <updated>2018-04-22T00:00:00+0000</updated>
-    <summary>Aller Anfang ist schwer – vor allem, weil er viele Fragen aufwirft. Zum Beispiel, ob wir für alle Tour-Stationen des Turing-Busses genügend externe Dozentinnen und Dozenten finden würden, die mit uns die weißen Flecken der digitalen Deutschlandkarte bereisen. Um auf Nummer sicher zu gehen, entschieden wir uns dafür, auch selbst einen Workshop zu konzipieren. Ein Unterfangen, das in Anbetracht unseres Zeitbudgets retrospektiv irgendwo zwischen überambitioniert und wahnwitzig eingeordnet werden kann.</summary>
   </entry>
   
 </feed>
